@@ -36,7 +36,7 @@ const mainWindow = require('electron-main-window').getMainWindow();
 
 // e.g:
 if(mainWindow !== null ){
-	mainWindow.webContents.send('mainWindowCommunication', "This is a test message");
+  mainWindow.webContents.send('mainWindowCommunication', "This is a test message");
 }
 ```
 
