@@ -1,6 +1,6 @@
 {
   "name": "electron-main-window",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the main window of an Electron Application",
   "main": "lib/index.js",
   "scripts": {
@@ -28,9 +28,9 @@
     "lib"
   ],
   "keywords": [
-    "root",
+    "main",
     "electron",
-    "path"
+    "window"
   ],
   "repository": {
     "type": "git",
